@@ -35,7 +35,8 @@ defmodule Guardian.DB.Mixfile do
       {:ecto, "~> 2.2"},
       {:postgrex, "~> 0.13", optional: true},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false},
-      {:credo, ">= 0.0.0", only: [:dev, :test], runtime: false}
+      {:credo, ">= 0.0.0", only: [:dev, :test], runtime: false},
+      {:inch_ex, ">= 0.0.0", only: :docs}
     ]
   end
 

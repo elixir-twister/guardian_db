@@ -1,6 +1,10 @@
 Guardian.DB
 ==========
 
+[![Build Status](https://travis-ci.org/mithereal/ecto-role.svg?branch=master)](https://travis-ci.org/elixir-twister/guardian_db)
+
+[![Inline docs](http://inch-ci.org/github/mithereal/ecto-role.svg)](http://inch-ci.org/github/elixir-twister/guardian_db)
+
 Guardian.DB is an extension to vanilla Guardian that tracks tokens in your
 application's database to prevent playback.
 
