@@ -23,7 +23,7 @@ To install Guardian.DB, first add it to your `mix.exs` file:
     end
 ```
 
-Then run `mix deps.get` on your terminal.
+Then run `mix deps.get` on your terminal..
 
 You will then need to add a migration:
 
